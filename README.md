@@ -9,7 +9,6 @@
   - [Technologies Used](#technologies-used)
   - [Team \& My Work](#team--my-work)
   - [Main Learnings](#main-learnings)
-  - [Setup](#setup)
 
 ## General Information
 This project was made as a school project in [kood/Jõhvi](https://kood.tech/) (20.7.2023)
@@ -47,9 +46,7 @@ I did everything myself.
 
 ## Main Learnings
 - Docker images, containers, networks
-- Infrastrcture provisioning using Docker compose
-
-## Setup
+- Infrastrcture provisioning using Vagrant
 Clone the repository
 ```
 git clone https://github.com/JesusKris/docker-microservice-architecture.git
